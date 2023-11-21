@@ -119,13 +119,22 @@ section {
   padding: 200px; /*Muda o texto de slogan de lugar*/
 }
 /*Customiza texto slogan da trilha*/
-#transform-world p {
+#transform-world #frase-01 {
   font-weight: 900;
   font-size: 2.5rem;
   text-transform: lowercase;
   max-width: 250px;
   text-shadow: 3px 2px #33A8DB;
 }
+
+#transform-world #frase-02 {
+    font-weight: 900;
+    font-size: 2.5rem;
+    text-transform: lowercase;
+    max-width: 250px;
+    margin-left: 700px;
+    text-shadow: 3px 2px #33A8DB;
+  }
 /*Estilização do contêiner da proxima imagem, bem como do texto dentro dele.*/
 #professional-challenges {
   text-align: center;
